@@ -1,4 +1,4 @@
-# 📘 [Nome do Repositório/Projeto]
+# 📘 Estudos Python Orientado a Objetos
 
 > Repositório de estudos e atividades práticas desenvolvido durante curso Técnico em Análise e Desenvolvimento de Sistemas - Senac 2024 - 2026.
 
