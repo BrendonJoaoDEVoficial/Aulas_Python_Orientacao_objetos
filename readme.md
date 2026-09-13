@@ -4,7 +4,7 @@
 
 ## 🎯 Sobre este repositório
 
-Este repositório reúne os códigos e exercícios que desenvolvi ao estudar programação orientada a objetos com python, como parte de curso Técnico em ADS. O objetivo é registrar meu processo de aprendizado e servir de material de consulta futura.
+Este repositório reúne os códigos e exercícios que desenvolvi ao estudar programação orientada a objetos com python, como parte do curso Técnico em ADS. O objetivo é registrar meu processo de aprendizado e servir de material de consulta futura.
 
 ## 📚 Fonte do conteúdo
 
